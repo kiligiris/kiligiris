@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @kiligiris
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me cays1200431@gn.iwasaki.ac.jp
+About kiligiris
+
+Profiles
+
+Name
+kiligiris
+
+Profession
+student
+
+Qualification
+基本情報技術者試験
 
 <!---
 kiligiris/kiligiris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
